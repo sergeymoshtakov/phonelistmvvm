@@ -1,0 +1,80 @@
+C:\Users\Alex\Desktop\PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.exe
+C:\Users\Alex\Desktop\PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.deps.json
+C:\Users\Alex\Desktop\PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.runtimeconfig.json
+C:\Users\Alex\Desktop\PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.dll
+C:\Users\Alex\Desktop\PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.pdb
+C:\Users\Alex\Desktop\PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\PhoneListMVVM\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Alex\Desktop\PhoneListMVVM\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Alex\Desktop\PhoneListMVVM\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Alex\Desktop\PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM_MarkupCompile.cache
+C:\Users\Alex\Desktop\PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.g.resources
+C:\Users\Alex\Desktop\PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.AssemblyInfo.cs
+C:\Users\Alex\Desktop\PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.dll
+C:\Users\Alex\Desktop\PhoneListMVVM\obj\Debug\net6.0-windows\refint\PhoneListMVVM.dll
+C:\Users\Alex\Desktop\PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.pdb
+C:\Users\Alex\Desktop\PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.genruntimeconfig.cache
+C:\Users\Alex\Desktop\PhoneListMVVM\obj\Debug\net6.0-windows\ref\PhoneListMVVM.dll
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.exe
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.deps.json
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.runtimeconfig.json
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.dll
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.pdb
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM_MarkupCompile.cache
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.g.resources
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.AssemblyInfo.cs
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.dll
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\obj\Debug\net6.0-windows\refint\PhoneListMVVM.dll
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.pdb
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.genruntimeconfig.cache
+C:\Users\Alex\Desktop\WORK\П12\1. примеры\4. MVVM\2. PhoneListMVVM\obj\Debug\net6.0-windows\ref\PhoneListMVVM.dll
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.exe
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.deps.json
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.runtimeconfig.json
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.dll
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.pdb
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM_MarkupCompile.cache
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.g.resources
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.AssemblyInfo.cs
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.dll
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\obj\Debug\net6.0-windows\refint\PhoneListMVVM.dll
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.pdb
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.genruntimeconfig.cache
+C:\Users\Alex\Desktop\WORK\П12\2. PhoneListMVVM\obj\Debug\net6.0-windows\ref\PhoneListMVVM.dll
+Z:\Desktop\2. PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.exe
+Z:\Desktop\2. PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.deps.json
+Z:\Desktop\2. PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.runtimeconfig.json
+Z:\Desktop\2. PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.dll
+Z:\Desktop\2. PhoneListMVVM\bin\Debug\net6.0-windows\PhoneListMVVM.pdb
+Z:\Desktop\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.csproj.AssemblyReference.cache
+Z:\Desktop\2. PhoneListMVVM\obj\Debug\net6.0-windows\MainWindow.baml
+Z:\Desktop\2. PhoneListMVVM\obj\Debug\net6.0-windows\MainWindow.g.cs
+Z:\Desktop\2. PhoneListMVVM\obj\Debug\net6.0-windows\App.g.cs
+Z:\Desktop\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM_MarkupCompile.cache
+Z:\Desktop\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.g.resources
+Z:\Desktop\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Desktop\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.AssemblyInfoInputs.cache
+Z:\Desktop\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.AssemblyInfo.cs
+Z:\Desktop\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.csproj.CoreCompileInputs.cache
+Z:\Desktop\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.dll
+Z:\Desktop\2. PhoneListMVVM\obj\Debug\net6.0-windows\refint\PhoneListMVVM.dll
+Z:\Desktop\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.pdb
+Z:\Desktop\2. PhoneListMVVM\obj\Debug\net6.0-windows\PhoneListMVVM.genruntimeconfig.cache
+Z:\Desktop\2. PhoneListMVVM\obj\Debug\net6.0-windows\ref\PhoneListMVVM.dll
